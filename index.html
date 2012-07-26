@@ -1,0 +1,15 @@
+---
+layout: page
+title:
+tagline: Supporting tagline
+---
+{% include JB/setup %}
+
+{% for post in site.posts limits:4%}
+
+   <!-- here add you post markup -->
+   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
