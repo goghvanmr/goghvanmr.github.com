@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Latest post
-tagline: Supporting tagline
+title: 毅哥
+tagline: 文艺型科技工作者, Geek型产品经理
 ---
 {% include JB/setup %}
 
 {% for post in site.posts limit:1 %}
 
    <!-- here add you post markup -->
-   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <div class="content">
     {{ post.content }}
   </div>
