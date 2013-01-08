@@ -2,8 +2,8 @@
 layout: post
 title: "理发店的产品设计"
 description: ""
-category: 产品设计
-tags: [产品, 用户体验]
+category: product manager
+tags: [barber, user experience]
 ---
 {% include JB/setup %}
 

@@ -2,8 +2,8 @@
 layout: post
 title: "写给二十五岁"
 description: ""
-category: 
-tags: []
+category: life
+tags: [25, resolution]
 ---
 {% include JB/setup %}
 
