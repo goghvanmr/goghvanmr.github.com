@@ -126,3 +126,5 @@ JB :
 tagline: Site Tagline
 
 markdown: rdiscount
+
+baseurl: /
