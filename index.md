@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: front_page
 title: 写给二十五岁
 tagline: 风雨如晦, 鸡鸣不已...
 ---
@@ -21,4 +21,6 @@ tagline: 风雨如晦, 鸡鸣不已...
 6.	见罗永浩老师一面，给他一个拥抱。
 7.	上一个新闻传播的进修班。
 
-这个博客会记录下我的所思所想所为, 如果能给你带来一点什么, 我将非常开心. **[>文章列表](/archive.html)**.
+---
+
+<script type="text/javascript" src="http://www.douban.com/service/badge/archpacman/?show=collection&amp;n=20&amp;columns=10&amp;hidelogo=yes&amp;cat=movie|book|music" ></script>
