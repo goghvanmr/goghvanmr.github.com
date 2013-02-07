@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三个反省"
+title: "一日三省"
 description: ""
 category: life
 tags: []
