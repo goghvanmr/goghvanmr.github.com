@@ -1,7 +1,7 @@
 ---
 layout: front_page
 title: 写给二十五岁
-tagline: 风雨如晦, 鸡鸣不已...
+tagline: 永远做个新手
 ---
 {% include JB/setup %}
 
